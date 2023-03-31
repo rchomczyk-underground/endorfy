@@ -14,7 +14,7 @@ There are several ways to integrate our library with yours plugin, most recommen
 ```xml
 <repositories>
     <repository>
-        <id>rafal-moe-repo-private</id>
+        <id>rafal-moe-repository-private</id>
         <url>https://repo.rafal.moe/private/</url>
     </repository>
 </repositories>

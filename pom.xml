@@ -7,6 +7,12 @@
     <groupId>moe.rafal</groupId>
     <artifactId>endorfy</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>endorfy-api</module>
+        <module>endorfy-bukkit</module>
+        <module>endorfy-shared</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -62,5 +68,12 @@
             </resource>
         </resources>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>rafal-moe-repository-private</id>
+            <url>https://repo.rafal.moe/private/</url>
+        </repository>
+    </distributionManagement>
 
 </project>
