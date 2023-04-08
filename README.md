@@ -23,7 +23,7 @@ There are several ways to integrate our library with yours plugin, most recommen
     <dependency>
         <groupId>moe.rafal</groupId>
         <artifactId>endorfy-api</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>2.0.0-SNAPSHOT</version>
         <scope>provided</scope>
     </dependency>
 </dependencies>

@@ -6,7 +6,7 @@
     <parent>
         <groupId>moe.rafal</groupId>
         <artifactId>endorfy</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>2.0.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>endorfy-shared</artifactId>
@@ -19,7 +19,7 @@
         <dependency>
             <groupId>moe.rafal</groupId>
             <artifactId>endorfy-api</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>2.0.0-SNAPSHOT</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
