@@ -79,7 +79,7 @@
 
     <distributionManagement>
         <repository>
-            <id>rafal-moe-repository-private</id>
+            <id>rafal-moe-repo-private</id>
             <url>https://repo.rafal.moe/private/</url>
         </repository>
     </distributionManagement>
