@@ -23,7 +23,7 @@ import java.nio.file.Path;
 
 import static moe.rafal.endorfy.config.ConfigConstants.PLUGIN_CONFIG_FILE_NAME;
 
-@Plugin(id = "bh-endorfy", version = PomData.PLUGIN_VERSION, authors = "shitzuu <hello@rafal.moe>")
+@Plugin(id = "endorfy", version = PomData.PLUGIN_VERSION, authors = "shitzuu <hello@rafal.moe>")
 public class EndorfyVelocityPlugin {
 
     private final PluginConfig pluginConfig;

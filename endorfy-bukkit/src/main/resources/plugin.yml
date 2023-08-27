@@ -1,4 +1,4 @@
 main: moe.rafal.endorfy.EndorfyBukkitPlugin
-name: BH-Endorfy
+name: endorfy
 version: ${project.version}
 authors: [ "shitzuu <hello@rafal.moe>" ]
